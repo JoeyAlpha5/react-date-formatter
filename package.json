@@ -1,0 +1,20 @@
+{
+  "name": "react-date-formatter",
+  "version": "1.0.0",
+  "description": "Formats date as a long or short string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "native",
+    "nodejs",
+    "date",
+    "format",
+    "react-moment"
+  ],
+  "author": "Jalome",
+  "license": "ISC"
+}

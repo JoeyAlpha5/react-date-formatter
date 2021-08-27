@@ -26,4 +26,4 @@ var formatted_date = DateFormatter(date_string).longDate();
 ```javascript
 var formatted_date = DateFormatter(date_string).shortDate();
 // result format Tue, 31 Aug, 2021
-```# react-date-formatter
+```
